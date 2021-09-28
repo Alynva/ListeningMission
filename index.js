@@ -2,9 +2,9 @@ const { Extension, HPacket, HDirection } = require('gnode-api');
 var processWindows = require("node-process-windows");
 
 const extensionInfo = {
-    name: 'Listening Moto',
-    description: 'Display current spotify music you listening in your moto.',
-    version: '0.1',
+    name: 'Listening Motto',
+    description: 'Display current spotify music you listening in your motto.',
+    version: '0.1.3',
     author: 'Lx'
 }
 
